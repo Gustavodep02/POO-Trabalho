@@ -47,7 +47,7 @@ private static final String PASSWORD = "sua_senha";
 ## 🚀 Como Executar o Projeto
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Gustavodep02/POO-Trabalho.git
    ```
 2. Abra o projeto em sua **IDE** (IntelliJ, Eclipse, NetBeans, etc.).
 3. Execute o script `database.sql` no MariaDB para criar as tabelas.
